@@ -1,0 +1,16 @@
+{
+  "name" :"Card 1",
+  "description":"Test one",
+  "image_url":"https://oc-stage.vw-dev.com/cdn/image/4947f0bf-31e7-4a0b-8d8f-910617d41b08-file_name-1641441464522.png",
+  "attributes" :[
+    {
+      "trait_type":"class",
+      "value":"test"
+    },
+    {
+      "display_type":"date",
+      "trait_type":"new year",
+      "value":114234
+    }
+  ]
+}
